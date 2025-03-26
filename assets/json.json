@@ -1,0 +1,121 @@
+[
+  {
+    "Nome": "O Juízo",
+    "Data": "05/12/2019",
+    "Diretor": "Andrucha Waddington",
+    "Tempo": 90,
+    "Nota": 6.3
+},
+  {
+    "Nome": "Macabro",
+    "Data": "28/06/2020",
+    "Diretor": "Marcos Prado",
+    "Tempo": 97,
+    "Nota": 7.4
+},
+  {
+    "Nome": "O Invasor",
+    "Data": "01/01/2002",
+    "Diretor": "Beto Brant",
+    "Tempo": 97,
+    "Nota": 7.4
+},
+  {
+    "Nome": "Quando Eu Era Vivo",
+    "Data": "31/01/2014",
+    "Diretor": "Marco Dutra e Gabriela Amaral Almeida",
+    "Tempo": 106,
+    "Nota": 6.6
+},
+  {
+    "Nome": "O Animal Cordial",
+    "Data": "09/08/2018",
+    "Diretor": "Gabriela Amaral Almeida",
+    "Tempo": 97,
+    "Nota": 5.6
+},
+  {
+    "Nome": "O Rastro",
+    "Data": "01/01/2017",
+    "Diretor": "J.C. Feyer",
+    "Tempo": 76,
+    "Nota": 6.4
+},
+  {
+    "Nome": "Mate-me Por Favor",
+    "Data": "01/01/2015",
+    "Diretor": "Anita Rocha da Silveira",
+    "Tempo": 104,
+    "Nota": 7.7
+},
+  {
+    "Nome": "Entre Nós",
+    "Data": "01/01/2013",
+    "Diretor": "Paulo Morelli",
+    "Tempo": 92,
+    "Nota": 5.4
+},
+  {
+    "Nome": "Morto Não Fala",
+    "Data": "01/01/2018",
+    "Diretor": "Marco Dutra",
+    "Tempo": 111,
+    "Nota": 6.3
+},
+  {
+    "Nome": "Confia em Mim",
+    "Data": "01/01/2014",
+    "Diretor": "Gustavo Pizzi",
+    "Tempo": 89,
+    "Nota": 7.4
+},
+  {
+    "Nome": "Isolados",
+    "Data": "01/01/2009",
+    "Diretor": "Tommy Wirkola",
+    "Tempo": 98,
+    "Nota": 6.1
+},
+  {
+    "Nome": "O Lobo Atrás da Porta",
+    "Data": "01/01/2013",
+    "Diretor": "Fernando Coimbra",
+    "Tempo": 100,
+    "Nota": 5.4
+},
+  {
+    "Nome": "Canastra Suja",
+    "Data": "01/01/2004",
+    "Diretor": "Moacyr Góes",
+    "Tempo": 96,
+    "Nota": 6.8
+},
+  {
+    "Nome": "A Jaula",
+    "Data": "01/01/2013",
+    "Diretor": "José Eduardo Belmonte",
+    "Tempo": 88,
+    "Nota": 6.1
+},
+  {
+    "Nome": "O Silêncio do Céu",
+    "Data": "01/01/2016",
+    "Diretor": "Marco Dutra",
+    "Tempo": 102,
+    "Nota": 5.2
+},
+  {
+    "Nome": "Bacurau",
+    "Data": "01/01/2019",
+    "Diretor": "Kleber Mendonça Filho e Juliano Dornelles",
+    "Tempo": 131,
+    "Nota": 6.4
+},
+  {
+    "Nome": "Propriedade",
+    "Data": "01/01/2013",
+    "Diretor": "Sérgio Bianchi",
+    "Tempo": 100,
+    "Nota": 6.2
+}
+]
